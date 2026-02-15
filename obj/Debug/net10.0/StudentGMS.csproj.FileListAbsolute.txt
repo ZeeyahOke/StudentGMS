@@ -1,0 +1,14 @@
+/Users/fawzo1/StudentGMS/bin/Debug/net10.0/StudentGMS
+/Users/fawzo1/StudentGMS/bin/Debug/net10.0/StudentGMS.deps.json
+/Users/fawzo1/StudentGMS/bin/Debug/net10.0/StudentGMS.runtimeconfig.json
+/Users/fawzo1/StudentGMS/bin/Debug/net10.0/StudentGMS.dll
+/Users/fawzo1/StudentGMS/bin/Debug/net10.0/StudentGMS.pdb
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/StudentGMS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/StudentGMS.AssemblyInfoInputs.cache
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/StudentGMS.AssemblyInfo.cs
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/StudentGMS.csproj.CoreCompileInputs.cache
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/StudentGMS.dll
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/refint/StudentGMS.dll
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/StudentGMS.pdb
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/StudentGMS.genruntimeconfig.cache
+/Users/fawzo1/StudentGMS/obj/Debug/net10.0/ref/StudentGMS.dll
